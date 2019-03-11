@@ -407,5 +407,17 @@ module.exports = {
         "https://github.com/alishahlakhani/Reactsx-React-TS-SCSS-PWA-Boilerplate",
       tags: ["css modules"],
     },
+    {
+      url: "https://github.com/flatlogic/react-native-starter",
+    },
+    {
+      url: "https://github.com/flatlogic/light-blue-react",
+    },
+    {
+      url: "https://github.com/flatlogic/sing-app-react",
+    },
+    {
+      url: "https://github.com/flatlogic/react-dashboard",
+    },
   ],
 };
